@@ -54,5 +54,6 @@ Data will be stored in json file named movie.json located at scrapy_allocine/dat
 
 ## Disclaimer
 The project and the obtained dataset is intended only for educational purpose. It is completely open source and has no value intentions to commercialise complete or any part of the same. The developer is on no part the owner of any resources used and does not claim to hold the permissions to use the project.
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
