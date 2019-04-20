@@ -6,6 +6,7 @@ class ScrapyAllocinePipeline(object):
 
     def open_spider(self, spider):
         self.file = open('data/allocine.json', 'w')
+        
 
     def close_spider(self, spider):
         self.file.close()
